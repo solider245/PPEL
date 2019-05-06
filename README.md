@@ -27,10 +27,10 @@ You will learn useful things, like:
 
 Go to one of the projects' pages, and follow the instructions there! Add new features! Submit and/or fix bugs! Ask questions! Get help with any of these! Have fun! :)
 
-For more information on which tags to use when opening issues, etc., check out the Beginners' Guide (not the game):
+For more information on which tags to use when opening issues, etc., check out the [Beginners' Guide](https://github.com/doczi-dominik/PPEL/blob/master/BEGINNERS_GUIDE.md) (not the game).
 
 #### If you are more experienced/a developer:
 
 The above applies to you, too! But of course, you may have more experience with Python. In that case, try to improve the documentation/comments, help make the program more optimized, and most importantly, help the beginners!
 
-For more information on how to make a good PPEL project, please consult the Developers' Guide:
+For more information on how to make a good PPEL project, please consult the [Developers' Guide](https://github.com/doczi-dominik/PPEL/blob/master/DEVELOPERS_GUIDE.md).
