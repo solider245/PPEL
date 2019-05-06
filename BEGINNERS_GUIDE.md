@@ -24,6 +24,6 @@ When creating an issue, here's what labels you should use or look for.
 
 **feature-request** - You should tag your issue with this if you want to extend the program or improve one of it's features.
 
-**bug-request** - If you find any bug or otherwise undocumented behaviour, please use this label.
+**bug-report** - If you find any bug or otherwise undocumented behaviour, please use this label.
 
 **difficulty: [easy-medium-expert]** - Use this label to filter issues by your own ablity. There are no *hard-coded* difficulty levels, so try a few words that come to mind.
