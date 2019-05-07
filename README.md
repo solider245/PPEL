@@ -1,7 +1,8 @@
 # Python Practical Examples List
 REAL projects for beginner/intermediate programmers.
 
-Projects:
+## Projects:
+- [a](https://github.com/doczi-dominik/a) - Simple CLI Alarm Clock + Daemon
 
 ## What is this?
 
