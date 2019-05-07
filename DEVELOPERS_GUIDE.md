@@ -27,3 +27,21 @@ When creating an issue, please use these labels to help people find the issues t
 **bug-report** - Use this when reporting a bug.
 
 **difficulty: [easy-medium-expert] - Please tag every issue with a difficulty to help beginners. There are no *hard-coded* levels, but make sure to only use a maximum of five.
+
+## Promotion
+
+When creating a project for PPEL, please append to the two following text (or something similar) to the top and bottom of your project's README respectively.
+
+Top:
+```markdown
+*This repository is part of PPEL, the Python Practical Examples List. Thus, this project is **beginner-friendly!** More info: [PPEL](https://github.com/doczi-dominik/PPEL/)*
+```
+
+Bottom:
+```markdown
+# Contributions
+
+This project is part of [PPEL](https://github.com/doczi-dominik/ppel), the Python Practical Examples List, a list where projects that are well suited for beginners appear. 
+
+For contribution guidelines, please check it out.
+```
